@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="d5fdfe1aaac144e39a922e496ee64047" Name="Diagram1">
+        <EntityTypeShape EntityType="dbVentasModel.modulo" Width="1.5" PointX="1.5" PointY="10.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbVentasModel.operacion" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbVentasModel.rol" Width="1.5" PointX="0.75" PointY="4.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbVentasModel.rol_operacion" Width="1.5" PointX="3" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbVentasModel.sysdiagrams" Width="1.5" PointX="9" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="dbVentasModel.usuario" Width="1.5" PointX="3" PointY="6.875" IsExpanded="true" />
+        <AssociationConnector Association="dbVentasModel.FK__operacion__id_mo__4D94879B" ManuallyRouted="false" />
+        <AssociationConnector Association="dbVentasModel.FK__rol_opera__id_op__5165187F" ManuallyRouted="false" />
+        <AssociationConnector Association="dbVentasModel.FK__rol_opera__id_ro__5070F446" ManuallyRouted="false" />
+        <AssociationConnector Association="dbVentasModel.FK__usuario__id_rol__5441852A" ManuallyRouted="false" />
+        <EntityTypeShape EntityType="dbVentasModel.producto" Width="1.5" PointX="5.375" PointY="1" />
+        <EntityTypeShape EntityType="dbVentasModel.detalle_venta" Width="1.5" PointX="5.375" PointY="6.25" />
+        <EntityTypeShape EntityType="dbVentasModel.venta" Width="1.5" PointX="7.75" PointY="6.375" />
+        <AssociationConnector Association="dbVentasModel.FK__detalle_v__id_pr__02084FDA" />
+        <AssociationConnector Association="dbVentasModel.FK__detalle_v__id_ve__66603565" />
+        <EntityTypeShape EntityType="dbVentasModel.abrir_caja" Width="1.5" PointX="7" PointY="10.375" />
+        <EntityTypeShape EntityType="dbVentasModel.cerrar_caja" Width="1.5" PointX="9.25" PointY="14.375" />
+        <AssociationConnector Association="dbVentasModel.FK__cerrar_ca__id_ab__5AEE82B9" />
+        <AssociationConnector Association="dbVentasModel.FK__venta__id_abrirC__628FA481" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,45 @@
+﻿@model  SistemaVentas.Models.UsuarioModels.TablaUsuarioModel
+@{
+    ViewBag.Title = "Registrar un nuevo usuario";
+}
+
+<h2>@ViewBag.Title</h2>
+
+
+
+@using (Html.BeginForm("NuevoUsuario", "Usuario", FormMethod.Post, new { role = "form", @class = "" }))
+{
+    @Html.AntiForgeryToken()
+
+    @*contenedor para el formulario *@
+    <div class="row">
+        <div class="col-md-12">
+            <div>
+                @Html.LabelFor(d => d.Nombre)
+                @Html.TextBoxFor(d => d.Nombre, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Nombre, null, new { @class = "red" })
+            </div>
+
+            <div>
+                @Html.LabelFor(d => d.Email)
+                @Html.TextBoxFor(d => d.Email, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Email, null, new { @class = "red" })
+            </div> 
+            <div>
+                @Html.LabelFor(d => d.Pass)
+                @Html.TextBoxFor(d => d.Pass, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Pass, null, new { @class = "red" })
+            </div>
+            <div>
+                @Html.LabelFor(d => d.Id_rol)
+                @Html.TextBoxFor(d => d.Id_rol, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Id_rol, null, new { @class = "red" })
+            </div>
+            <div>
+                <input value="Guardar" class="btn btn-danger" type="submit" />
+            </div>
+        </div>
+
+    </div>
+
+}

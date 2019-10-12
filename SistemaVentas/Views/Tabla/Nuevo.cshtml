@@ -1,0 +1,65 @@
+﻿@model SistemaVentas.Models.ProductoModels.TablaProductoModel
+@{
+    ViewBag.Title = "Nuevo Producto";
+}
+
+<h2>@ViewBag.Title</h2>
+
+
+
+
+@using (Html.BeginForm("Nuevo", "Tabla", FormMethod.Post, htmlAttributes: new { @enctype = "multipart/form-data" }))
+{
+
+    @*contenedor para el formulario *@
+    <div class="row">
+        <div class="col-md-12">
+            <div>
+                @Html.LabelFor(d => d.Codigo)
+                @Html.TextBoxFor(d => d.Codigo, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Codigo, null, new { @class = "red" })
+            </div>
+
+            <div>
+                @Html.LabelFor(d => d.Nombre)
+                @Html.TextBoxFor(d => d.Nombre, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Nombre, null, new { @class = "red" })
+            </div>
+            <div>
+                @Html.LabelFor(d => d.Costo)
+                @Html.TextBoxFor(d => d.Costo, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Costo, null, new { @class = "red" })
+            </div>
+            <div>
+                @Html.LabelFor(d => d.Precio)
+                @Html.TextBoxFor(d => d.Precio, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Precio, null, new { @class = "red" })
+            </div>
+            <div>
+                @Html.LabelFor(d => d.Existencia)
+                @Html.TextBoxFor(d => d.Existencia, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Existencia, null, new { @class = "red" })
+            </div>
+            <div>
+                @Html.LabelFor(d => d.Fecha)<br />
+                @Html.EditorFor(d => d.Fecha, "", new { @class = "form-control" })
+            </div>
+
+
+            <div>
+                @Html.LabelFor(d => d.Ruta_img)<br />
+                <input type="file" name="Ruta_img" accept="image/*" class="col-md-7 col-xs-12"/>
+                @Html.ValidationMessageFor(d => d.Ruta_img, null, new { @class = "red" })
+            </div>
+            <br />
+            <br/>
+            <div class=" row">
+                <div class="row" style="text-align: left; padding: 5px;">
+                    <input value="Guardar" class="btn btn-danger" type="submit" />
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+}

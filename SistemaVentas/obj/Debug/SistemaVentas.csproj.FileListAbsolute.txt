@@ -1,0 +1,160 @@
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\ApplicationInsights.config
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\SistemaVentas.dll.config
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\SistemaVentas.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\SistemaVentas.pdb
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\csc.exe
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\csc.exe.config
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\csc.rsp
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\csi.exe
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\csi.rsp
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.AppContext.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.Collections.Immutable.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.IO.FileSystem.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.Reflection.Metadata.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\vbc.exe
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\vbc.exe.config
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\vbc.rsp
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\VBCSCompiler.exe
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\roslyn\VBCSCompiler.exe.config
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Antlr3.Runtime.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.DependencyCollector.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.Web.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.WindowsServer.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.ApplicationInsights.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.Web.Infrastructure.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Newtonsoft.Json.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Diagnostics.DiagnosticSource.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.Helpers.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.Mvc.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.Optimization.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.Razor.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.Deployment.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.Razor.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\WebGrease.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.Helpers.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.Mvc.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.Optimization.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.Razor.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.Deployment.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.Razor.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Newtonsoft.Json.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Antlr3.Runtime.pdb
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\System.Diagnostics.DiagnosticSource.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.DependencyCollector.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.WindowsServer.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.Web.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.Helpers.resources.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.Mvc.resources.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.Optimization.resources.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.Razor.resources.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.WebPages.resources.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.WebPages.Deployment.resources.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.WebPages.Razor.resources.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojAssemblyReference.cache
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CopyComplete
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.dll
+E:\Ceti\C#\Web\Ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\ApplicationInsights.config
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\SistemaVentas.dll.config
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\SistemaVentas.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\SistemaVentas.pdb
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\csc.exe
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\csc.exe.config
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\csc.rsp
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\csi.exe
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\csi.rsp
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.AppContext.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.Collections.Immutable.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.IO.FileSystem.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\System.Reflection.Metadata.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\vbc.exe
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\vbc.exe.config
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\vbc.rsp
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\VBCSCompiler.exe
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\roslyn\VBCSCompiler.exe.config
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Antlr3.Runtime.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.Agent.Intercept.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.DependencyCollector.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.Web.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.WindowsServer.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Microsoft.ApplicationInsights.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Microsoft.Web.Infrastructure.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Newtonsoft.Json.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\System.Diagnostics.DiagnosticSource.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\System.Web.Helpers.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\System.Web.Mvc.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\System.Web.Optimization.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\System.Web.Razor.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.Deployment.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.Razor.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\WebGrease.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\System.Web.Helpers.xml
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\System.Web.Mvc.xml
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\System.Web.Optimization.xml
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\System.Web.Razor.xml
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.xml
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.Deployment.xml
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\System.Web.WebPages.Razor.xml
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Newtonsoft.Json.xml
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Antlr3.Runtime.pdb
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\System.Diagnostics.DiagnosticSource.xml
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.DependencyCollector.xml
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.WindowsServer.xml
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Microsoft.AI.Web.xml
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.Helpers.resources.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.Mvc.resources.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.Optimization.resources.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.Razor.resources.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.WebPages.resources.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.WebPages.Deployment.resources.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\es\System.Web.WebPages.Razor.resources.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csprojAssemblyReference.cache
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CopyComplete
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\EntityFramework.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\EntityFramework.SqlServer.dll
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\EntityFramework.xml
+G:\desarrollloWeb\asp.net\sql server\sistema ventas\SistemaVentas\SistemaVentas\bin\EntityFramework.SqlServer.xml

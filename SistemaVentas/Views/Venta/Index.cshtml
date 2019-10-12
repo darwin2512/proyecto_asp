@@ -1,0 +1,62 @@
+﻿@model SistemaVentas.Models.VentaModels.detalleVentaModel
+@{
+    ViewBag.Title = "Realizar nueva venta";
+    Layout = "~/Views/Shared/_LayoutVenta.cshtml";
+    List<SelectListItem> itemsProducto = (List<SelectListItem>)ViewBag.itemsProducto;
+
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm("Index", "Venta", FormMethod.Post, new { role = "form", @class = ""}))
+{
+ 
+
+
+    @*contenedor para el formulario *@
+    <div class="row">
+        <div class="col-md-12">
+
+            <div>
+                @Html.DropDownList("datos", itemsProducto, "Selecciona un producto", new { @class = "form-control" })
+                <a class="btn btn-default" href="~/Venta/Index/@itemsProducto">Seleccionar</a>
+                 
+            </div>
+            <div>
+                @Html.LabelFor(d => d.Precio)
+                @Html.TextBoxFor(d => d.Precio, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Precio, null, new { @class = "red" })
+
+            </div>
+            <div>
+                @Html.LabelFor(d => d.Cantidad)
+                @Html.TextBoxFor(d => d.Cantidad, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Cantidad, null, new { @class = "red" })
+            </div>
+            <div>
+                <input value="Guardar" class="btn btn-danger" type="submit" />
+            </div>
+        </div>
+
+    </div>
+
+}
+
+
+<div class="container my-5 text-center">
+    <button class="btn btn-danger w-100" onclick="traer()">Agregar</button>
+    <div class="mt-5">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Producto</th>
+                    <th scope="col">Cantidad</th>
+                    <th scope="col">Precio</th>
+                    <th scope="col">Subtotal</th>
+                </tr>
+            </thead>
+            <tbody id="contenido"></tbody>
+        </table>
+    </div>
+</div>

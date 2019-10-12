@@ -1,0 +1,38 @@
+﻿@model SistemaVentas.Models.CajaModels.addCajaModel
+@{
+    ViewBag.Title = "Apertura de caja";
+
+}
+
+<h2>@ViewBag.Title</h2>
+
+@using (Html.BeginForm("Index", "caja", FormMethod.Post))
+{
+
+    @*contenedor para el formulario *@
+    <div class="row">
+        <div class="col-md-12">
+
+            <div>
+                @Html.LabelFor(d => d.Monto)
+                @Html.TextBoxFor(d => d.Monto, "", new { @class = "form-control" })
+                @Html.ValidationMessageFor(d => d.Monto, null, new { @class = "red" })
+            </div>
+            <br />
+            <div>
+                @Html.LabelFor(d => d.Fecha) <br />
+                @Html.EditorFor(d => d.Fecha, "", new { @class = "form-control"})
+            </div>
+            <div>
+                @Html.LabelFor(d => d.Hora) <br />
+                <input type="time" class="form-control"  name="Hora"/><br />
+            </div>
+            <br />
+            <div>
+                <input value="Guardar" class="btn btn-danger" type="submit" />
+            </div>
+        </div>
+
+    </div>
+
+}
